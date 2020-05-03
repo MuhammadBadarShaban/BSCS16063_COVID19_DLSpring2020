@@ -22,6 +22,7 @@ https://drive.google.com/file/d/1-3e_ULkXB8s48hsGdy7_w-82KijVXeVt/view?usp=shari
 
 
 # **Results Without Focal Loss**
+
 ## VGG16
 
 **Accuracy**
@@ -43,7 +44,85 @@ Validation Accuracy 90.12738853503184 %
 **F1 Score**
 Validation F1 Score : 0.9140127388535032
 
-**Confusion Matrix**
+**Validation Confusion Matrices**
+First Confusion Matrix
+
+![](images_without_focalloss/vgg16/confusion_matrix/a.JPG)
+
+2nd Confusion Matrix
+
+![](images_without_focalloss/vgg16/Confusion_matrix/b.JPG)
+
+3rd Confusion Matrix
+
+![](images_without_focalloss/vgg16/Confusion_matrix/c.JPG)
+
+****_****
+
+## Resnet18
+
+**Accuracy**
+Training Accuracy 87.88709677419355 %
+Validation Accuracy 92.03821656050955 %
+
+**Accuracy Curves**
+
+(Blue for Training and Red for validation)
+![](images_without_focalloss/resnet18/accuracy/Capture.JPG)
+
+
+**Loss Curves**
+
+(Blue for Training and Red for validation)
+![](images_without_focalloss/resnet18/Loss/Capture.JPG)
+
+
+**F1 Score**
+
+Validation F1 Score : 0.9378980891719745
+
+**Validation Confusion Matrices**
+
+**First Confusion Matrix**
+
+![](images_without_focalloss/resnet18/confusion_matrix/a.JPG)
+
+**2nd Confusion Matrix**
+
+![](images_without_focalloss/resnet18/Confusion_matrix/b.JPG)
+
+**3rd Confusion Matrix**
+
+![](images_without_focalloss/resnet18/Confusion_matrix/c.JPG)
+
+****_****
+
+# **Results with Focal Loss**
+
+## VGG16
+
+**Accuracy**
+
+Training Accuracy 86.46774193548387 %
+
+Validation Accuracy 89.01273885350318 %
+
+
+**Accuracy Curves**
+
+(Blue for Training and Red for validation)
+![](images_without_focalloss/vgg16/accuracy/Capture.JPG)
+
+**Loss Curves**
+
+(Blue for Training and Red for validation)
+![](images_without_focalloss/vgg16/Loss/Capture.JPG)
+
+**F1 Score**
+
+Validation F1 Score : 0.9187898089171974
+
+**Validation Confusion Matrices**
 ***First Confusion Matrix***
 
 ![](images_without_focalloss/vgg16/confusion_matrix/a.JPG)
@@ -61,14 +140,35 @@ Validation F1 Score : 0.9140127388535032
 ## Resnet18
 
 **Accuracy**
-Training Accuracy 87.88709677419355 %
-Validation Accuracy 92.03821656050955 %
+Training Accuracy 87.45161290322581 %
+Validation Accuracy 92.19745222929936 %
 
 **Accuracy Curves**
+
 (Blue for Training and Red for validation)
+![](images_without_focalloss/resnet18/accuracy/Capture.JPG)
+
+
+**Loss Curves**
+
+(Blue for Training and Red for validation)
+![](images_without_focalloss/resnet18/Loss/Capture.JPG)
+
 
 **F1 Score**
-Validation F1 Score : 0.9378980891719745
 
-**Confusion Matrix**
-....................
+Validation F1 Score : 0.9347133757961783
+
+** ValidationConfusion Matrices**
+
+**First Confusion Matrix**
+
+![](images_without_focalloss/resnet18/confusion_matrix/a.JPG)
+
+**2nd Confusion Matrix**
+
+![](images_without_focalloss/resnet18/Confusion_matrix/b.JPG)
+
+**3rd Confusion Matrix**
+
+![](images_without_focalloss/resnet18/Confusion_matrix/c.JPG)

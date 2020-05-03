@@ -111,12 +111,12 @@ Validation Accuracy 89.01273885350318 %
 **Accuracy Curves**
 
 (Blue for Training and Red for validation)
-![](images_without_focalloss/vgg16/accuracy/Capture.JPG)
+![](images_with_focalloss/vgg16/accuracy/Capture.JPG)
 
 **Loss Curves**
 
 (Blue for Training and Red for validation)
-![](images_without_focalloss/vgg16/Loss/Capture.JPG)
+![](images_with_focalloss/vgg16/Loss/Capture.JPG)
 
 **F1 Score**
 
@@ -125,15 +125,15 @@ Validation F1 Score : 0.9187898089171974
 **Validation Confusion Matrices**
 ***First Confusion Matrix***
 
-![](images_without_focalloss/vgg16/confusion_matrix/a.JPG)
+![](images_with_focalloss/vgg16/confusion_matrix/a.JPG)
 
 ***2nd Confusion Matrix***
 
-![](images_without_focalloss/vgg16/Confusion_matrix/b.JPG)
+![](images_with_focalloss/vgg16/Confusion_matrix/b.JPG)
 
 ***3rd Confusion Matrix***
 
-![](images_without_focalloss/vgg16/Confusion_matrix/c.JPG)
+![](images_with_focalloss/vgg16/Confusion_matrix/c.JPG)
 
 ****_****
 
@@ -146,13 +146,13 @@ Validation Accuracy 92.19745222929936 %
 **Accuracy Curves**
 
 (Blue for Training and Red for validation)
-![](images_without_focalloss/resnet18/accuracy/Capture.JPG)
+![](images_with_focalloss/resnet18/accuracy/Capture.JPG)
 
 
 **Loss Curves**
 
 (Blue for Training and Red for validation)
-![](images_without_focalloss/resnet18/Loss/Capture.JPG)
+![](images_with_focalloss/resnet18/Loss/Capture.JPG)
 
 
 **F1 Score**
@@ -163,12 +163,12 @@ Validation F1 Score : 0.9347133757961783
 
 **First Confusion Matrix**
 
-![](images_without_focalloss/resnet18/confusion_matrix/a.JPG)
+![](images_with_focalloss/resnet18/confusion_matrix/a.JPG)
 
 **2nd Confusion Matrix**
 
-![](images_without_focalloss/resnet18/Confusion_matrix/b.JPG)
+![](images_with_focalloss/resnet18/Confusion_matrix/b.JPG)
 
 **3rd Confusion Matrix**
 
-![](images_without_focalloss/resnet18/Confusion_matrix/c.JPG)
+![](images_with_focalloss/resnet18/Confusion_matrix/c.JPG)

@@ -26,17 +26,30 @@ https://drive.google.com/file/d/1-3e_ULkXB8s48hsGdy7_w-82KijVXeVt/view?usp=shari
 
 **Accuracy**
 Training Accuracy 86.66129032258064 %
+
 Validation Accuracy 90.12738853503184 %
 
-**Accuracy Curves**
-(Blue for Training and Red for validation)
 
+**Accuracy Curves**
+
+(Blue for Training and Red for validation)
+![](images_without_focalloss/vgg16/accuracy/Capture.JPG)
+
+**Loss Curves**
+
+(Blue for Training and Red for validation)
+![](images_without_focalloss/vgg16/Loss/Capture.JPG)
 
 **F1 Score**
 Validation F1 Score : 0.9140127388535032
 
 **Confusion Matrix**
-....................
+![](images_without_focalloss/vgg16/confusion matrix/1.JPG)
+
+![](images_without_focalloss/vgg16/Confusion matrix/2.JPG)
+
+![](images_without_focalloss/vgg16/Confusion matrix/3.JPG)
+
 
 ## Resnet18
 

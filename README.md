@@ -45,19 +45,11 @@ Validation Accuracy 90.12738853503184 %
 Validation F1 Score : 0.9140127388535032
 
 **Validation Confusion Matrices**
-First Confusion Matrix
+Confusion Matrix
 
-![](images_without_focalloss/vgg16/confusion_matrix/a.JPG)
+![](images_without_focalloss/vgg16/confusion_matrix/d.JPG)
 
-2nd Confusion Matrix
 
-![](images_without_focalloss/vgg16/Confusion_matrix/b.JPG)
-
-3rd Confusion Matrix
-
-![](images_without_focalloss/vgg16/Confusion_matrix/c.JPG)
-
-****_****
 
 ## Resnet18
 
@@ -83,19 +75,9 @@ Validation F1 Score : 0.9378980891719745
 
 **Validation Confusion Matrices**
 
-**First Confusion Matrix**
+** Confusion Matrix**
 
-![](images_without_focalloss/resnet18/confusion_matrix/a.JPG)
-
-**2nd Confusion Matrix**
-
-![](images_without_focalloss/resnet18/Confusion_matrix/b.JPG)
-
-**3rd Confusion Matrix**
-
-![](images_without_focalloss/resnet18/Confusion_matrix/c.JPG)
-
-****_****
+![](images_without_focalloss/resnet18/confusion_matrix/d.JPG)
 
 # **Results with Focal Loss**
 
@@ -123,19 +105,9 @@ Validation Accuracy 89.01273885350318 %
 Validation F1 Score : 0.9187898089171974
 
 **Validation Confusion Matrices**
-***First Confusion Matrix***
+***Confusion Matrix***
 
-![](images_with_focalloss/vgg16/confusion_matrix/a.JPG)
-
-***2nd Confusion Matrix***
-
-![](images_with_focalloss/vgg16/Confusion_matrix/b.JPG)
-
-***3rd Confusion Matrix***
-
-![](images_with_focalloss/vgg16/Confusion_matrix/c.JPG)
-
-****_****
+![](images_with_focalloss/vgg16/confusion_matrix/d.JPG)
 
 ## Resnet18
 
@@ -161,14 +133,7 @@ Validation F1 Score : 0.9347133757961783
 
 ** ValidationConfusion Matrices**
 
-**First Confusion Matrix**
+**Confusion Matrix**
 
-![](images_with_focalloss/resnet18/confusion_matrix/a.JPG)
+![](images_with_focalloss/resnet18/confusion_matrix/d.JPG)
 
-**2nd Confusion Matrix**
-
-![](images_with_focalloss/resnet18/Confusion_matrix/b.JPG)
-
-**3rd Confusion Matrix**
-
-![](images_with_focalloss/resnet18/Confusion_matrix/c.JPG)

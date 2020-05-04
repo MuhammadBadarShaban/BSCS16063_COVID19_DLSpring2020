@@ -44,14 +44,12 @@ Validation Accuracy 90.12738853503184 %
 **F1 Score**
 Validation F1 Score : 0.9140127388535032
 
-**Validation Confusion Matrices**
-Confusion Matrix
+**Validation Confusion Matrix**
 
 ![](images_without_focalloss/vgg16/confusion_matrix/d.JPG)
 
 
-
-## Resnet18
+# Resnet18
 
 **Accuracy**
 Training Accuracy 87.88709677419355 %
